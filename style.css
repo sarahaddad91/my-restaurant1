@@ -1,5 +1,5 @@
 body {
-background-color: gray;
+background-color: white;
 
 } 
 #main-heading {
@@ -16,7 +16,7 @@ background-color: gray;
     display: block;
     margin-left: 0;
     margin-right: auto;
-    
+
 
 }
 
@@ -32,8 +32,7 @@ background-color: gray;
 
 /*margin-right: 0; */
 
-display: flex;
-margin-left: 50%;
+/*margin-left: 50%;
 /*margin-left: auto;
 margin-right: 0%;
 padding-right: 0;*/
@@ -62,4 +61,15 @@ padding-right: 50px;
 
 
 
+}
+
+.menu {
+
+    display : flex ;
+    padding-bottom :50px;
+}
+.menu  p {
+
+    padding-bottom :50px;
+    padding-left: 150px;
 }
